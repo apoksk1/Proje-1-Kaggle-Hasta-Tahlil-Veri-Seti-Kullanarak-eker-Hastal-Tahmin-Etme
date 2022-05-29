@@ -1,0 +1,10 @@
+-Sınıflandırma yapar
+
+-Daha önce elde edilen noktalara bakarak yeni bir nokta geldiği zaman onun hangi gruptaolduğunu bulmak için kullanılır
+
+-En yakın K tane komşu nokta bulunur 
+
+-En çok hangi gruptan komşu nokta vrsa yeni gelen nokta o gruptan olduğu kabul edilir 
+
+
+-Yapay zeka algoritması yeni noktanın hangi grupta olduğunu bulurken Euclidean distance hesaplamasını kullanır 
